@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookrepo", "Bookrepo\Bookrepo.csproj", "{2794D6A9-BFEC-4F15-8606-C5161579C746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookrepoTests", "BookrepoTests\BookrepoTests.csproj", "{613804CF-254E-4EFA-91C8-7CADAB6AE617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2794D6A9-BFEC-4F15-8606-C5161579C746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2794D6A9-BFEC-4F15-8606-C5161579C746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2794D6A9-BFEC-4F15-8606-C5161579C746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2794D6A9-BFEC-4F15-8606-C5161579C746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613804CF-254E-4EFA-91C8-7CADAB6AE617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613804CF-254E-4EFA-91C8-7CADAB6AE617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613804CF-254E-4EFA-91C8-7CADAB6AE617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613804CF-254E-4EFA-91C8-7CADAB6AE617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D41E5EF2-FEAB-4489-BA1C-315079424BE9}
+	EndGlobalSection
+EndGlobal
